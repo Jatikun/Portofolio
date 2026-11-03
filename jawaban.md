@@ -1,5 +1,5 @@
-Soal 1a, bagaimana browser bisa mengenali link "<a href="#contacts">" tanpa memuat ulang?
-Browser dapat mengenali link "<a href="#contacts">" karena tagar yang digunakannya "#", yang membuat browser menavigasi ke elemen dengan id "contacts" di halaman yang sama tanpa memuat ulang halaman.
+Soal 1a, bagaimana browser bisa mengenali link (a href="#contacts") tanpa memuat ulang?
+Browser dapat mengenali link (a href="#contacts") karena tagar yang digunakannya "#", yang membuat browser menavigasi ke elemen dengan id "contacts" di halaman yang sama tanpa memuat ulang halaman.
 Soal 1b, apa yang terjadi jika "#" dihilangkan?
 Jika tagar "#" dihilangkan, browser akan mencoba memuat halaman baru dengan URL yang sesuai dengan nilai href, sehingga halaman akan dimuat ulang.
 
