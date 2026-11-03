@@ -8,5 +8,7 @@ Elemen akan sedikit bergerak ke atas ketika pengguna mengarahkan kursor ke eleme
 Soal 2b, kenapa penambahan class duration-300 penting dalam interaksi tombol?
 Duration atau jeda yang ditambahkan penting untuk meringankan beban pada web dan kesan estetika.
 
-soal 3a, jelaskan perbedaan susunan antara teks profil dan foto ketika halaman dibuka di ponsel vs laptop/tablet?
+Soal 3a, jelaskan perbedaan susunan antara teks profil dan foto ketika halaman dibuka di ponsel vs laptop/tablet?
 Perbedaan teks dan foto akan berubah pada ponsel menjadi vertikal ke bawah karena batas layarnya, sedangkan pada laptop/tablet akan menjadi horizontal ke kanan.
+Soal 3b, fungsi dari pergantian margin mx-auto md:mx-0 pada foto profil terhadap posisi gambar di kedua layar tersebut?
+Untuk mengatur posisi elemen secara horizontal agar berada di tengah pada layar ponsel dan bergeser ke kiri pada layar laptop/tablet.
